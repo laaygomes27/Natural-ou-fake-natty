@@ -19,6 +19,7 @@ A conclusão reforça que dominar essas tecnologias é essencial para aproveitar
 Gemini (https://gemini.google.com)
 Openart.ai (https://openart.ai/create)
 Chatbot Pro (https://chatpro.ai-pro.org)
+ChatGpt https://chatgpt.com
 
 
 ## 🧐 Processo de Criação
@@ -39,6 +40,10 @@ Descrição do que foi solicitado para criação da apostila:
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+Imagem gerada no Gemini https://github.com/laaygomes27/Natural-ou-fake-natty/blob/main/teste%20gemini.jpeg
+Imagem gerada no Openart.ai https://github.com/laaygomes27/Natural-ou-fake-natty/blob/main/openart-image.jpg
+Apostila gerada no Chatbot Pro https://github.com/laaygomes27/Natural-ou-fake-natty/blob/main/Apostila%20A%20Importância%20das%20Atualizações%20Tecnológicas%20no%20Mundo%20Atual.pdf
+Resumo da apostila no inicio do repositório feito usando o Chatgpt
 
 ## 💭 Reflexão (Opcional)
 Criar algo usando uma IA é algo realmente inovador, vejo que estamos avançando cada vez mais rumo a uma experiência tecnologica incrivel, e quem não acompanhar essas atualizações com certeza ficará de fora desse mundo incrivel que está sendo desenvolvido.
